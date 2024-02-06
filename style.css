@@ -9,6 +9,7 @@ html{
 h1{
     color: white;
     text-align: center;
+    cursor: pointer;
 }
 body{
     background-image: url('https://www.ppt-backgrounds.net/uploads/black-line-silver-desktop-picture-downloads.jpeg');
